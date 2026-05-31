@@ -1,2 +1,5 @@
 com/deepthi/resumescrening/controller/ResumeController.class
+com/deepthi/resumescrening/entity/Candidate.class
+com/deepthi/resumescrening/controller/UploadController.class
 com/deepthi/resumescrening/ResumescreningApplication.class
+com/deepthi/resumescrening/repository/CandidateRepository.class

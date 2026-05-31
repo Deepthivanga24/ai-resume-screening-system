@@ -1,2 +1,5 @@
 /root/ai-resume-screening-system/backend/src/main/java/com/deepthi/resumescrening/ResumescreningApplication.java
 /root/ai-resume-screening-system/backend/src/main/java/com/deepthi/resumescrening/controller/ResumeController.java
+/root/ai-resume-screening-system/backend/src/main/java/com/deepthi/resumescrening/controller/UploadController.java
+/root/ai-resume-screening-system/backend/src/main/java/com/deepthi/resumescrening/entity/Candidate.java
+/root/ai-resume-screening-system/backend/src/main/java/com/deepthi/resumescrening/repository/CandidateRepository.java
